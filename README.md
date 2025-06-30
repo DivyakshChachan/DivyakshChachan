@@ -13,13 +13,17 @@
 
 ## 🚀 About Me
 
+🎓 **3rd Year B.Tech in Artificial Intelligence** at **NIT Surat**  
+💡 Passionate about leveraging AI to solve real-world problems and create meaningful impact through technology.
+
 ```python
 class DivyakshChachan:
     def __init__(self):
         self.name = "Divyaksh Chachan"
         self.role = "AI Student"
+        self.education = "3rd Year B.Tech AI - NIT Surat"
         self.location = "Surat, India"
-        self.languages = ["Python", "C++", "JavaScript"]
+        self.languages = ["Python", "C++", "JavaScript", "Java"]
         self.current_focus = [
             "Solving real-life problems using AI",
             "Software Development",
@@ -44,6 +48,7 @@ me.say_hi()
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🌐 MERN Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -80,16 +85,32 @@ me.say_hi()
 
 ---
 
-## ⚡ Coding Activity
+## ⚡ Coding Activity & Profiles
+
+<div align="center">
+
+### 🏆 Competitive Programming
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DivyakshChachan/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/layzcoder)
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/DivyakshChachan?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+</div>
+
+</div>
+
+### 📊 Weekly Coding Activity
 
 <!--START_SECTION:waka-->
 **📊 This Week I Spent My Time On:**
 
 ```text
 Python       12 hrs 30 mins  ████████████░░░░░░░░░░░░░   50.2%
-JavaScript   6 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   25.1%
-C++          3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   15.1%
-HTML/CSS     2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    9.6%
+C++          8 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   33.1%
+JavaScript   3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   15.1%
+Java         2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    9.4%
+HTML/CSS     1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    6.0%
 ```
 
 **🔥 Editors:**
@@ -166,6 +187,8 @@ graph TD
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyaksh-chachan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://divyakshchachan.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DivyakshChachan/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/layzcoder)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@divyakshchachan.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DivyakshChachan)
 
