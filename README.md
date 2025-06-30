@@ -98,6 +98,14 @@ me.say_hi()
   <img src="https://leetcard.jacoblin.cool/DivyakshChachan?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
 </div>
 
+<div align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=layzcoder&theme=dark&force_username=true&border_color=204ECF" alt="Codeforces Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 </div>
 
 ### 📊 Weekly Coding Activity
@@ -106,8 +114,8 @@ me.say_hi()
 **📊 This Week I Spent My Time On:**
 
 ```text
-C++          12 hrs 30 mins  ████████████░░░░░░░░░░░░░   50.2%
-Python       8 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   33.1%
+Python       12 hrs 30 mins  ████████████░░░░░░░░░░░░░   50.2%
+C++          8 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   33.1%
 JavaScript   3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   15.1%
 Java         2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    9.4%
 HTML/CSS     1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    6.0%
@@ -121,7 +129,7 @@ Jupyter      4 hrs 20 mins   ████░░░░░░░░░░░░░
 
 **💻 Operating System:**
 ```text
-MadOS      24 hrs 50 mins  █████████████████████████   100.0%
+Windows      24 hrs 50 mins  █████████████████████████   100.0%
 ```
 <!--END_SECTION:waka-->
 
