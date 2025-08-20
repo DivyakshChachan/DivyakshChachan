@@ -54,7 +54,6 @@ me.say_hi()
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -174,8 +173,8 @@ graph TD
   <a href="https://github.com/DivyakshChachan/heart-disease-prediction">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyakshChachan&repo=heart-disease-prediction&theme=tokyonight" alt="Heart Disease Prediction"/>
   </a>
-  <a href="https://github.com/DivyakshChachan/license-plate-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyakshChachan&repo=license-plate-detection&theme=tokyonight" alt="License Plate Detection"/>
+  <a href="https://github.com/KanhaiyaChhaparwal24/license-plate-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KanhaiyaChhaparwal24&repo=license-plate-detection&theme=tokyonight" alt="License Plate Detection"/>
   </a>
 </div>
 
