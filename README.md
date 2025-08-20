@@ -1,7 +1,7 @@
 # Hi there, I'm Divyaksh Chachan! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Student+%7C+Problem+Solver;MERN+Stack+Developer;Python+%26+C%2B%2B+Enthusiast;Building+AI-Powered+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Student+%7C+Problem+Solver;Python+%26+C%2B%2B+Enthusiast;Building+AI-Powered+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -23,13 +23,13 @@ class DivyakshChachan:
         self.role = "AI Student"
         self.education = "3rd Year B.Tech AI - NIT Surat"
         self.location = "Surat, India"
-        self.languages = ["Python", "C++", "JavaScript", "Java"]
+        self.languages = ["Python", "C++", "Java"]
         self.current_focus = [
             "Solving real-life problems using AI",
-            "Software Development",
-            "Building innovative solutions"
+            "Machine Learning & Data Science",
+            "Building innovative AI solutions"
         ]
-        self.learning = "Advanced Machine Learning & Full Stack Development"
+        self.learning = "Advanced Machine Learning & Computer Vision"
     
     def say_hi(self):
         print("Thanks for dropping by! Let's connect and build something amazing together!")
@@ -47,20 +47,14 @@ me.say_hi()
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### 🌐 MERN Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🤖 AI/ML Libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -114,11 +108,9 @@ me.say_hi()
 **📊 This Week I Spent My Time On:**
 
 ```text
+Python       15 hrs 45 mins  ████████████████░░░░░░░░░   63.2%
 C++          12 hrs 30 mins  ████████████░░░░░░░░░░░░░   50.2%
-Python       8 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   33.1%
-JavaScript   3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   15.1%
 Java         2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    9.4%
-HTML/CSS     1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    6.0%
 ```
 
 **🔥 Editors:**
@@ -143,8 +135,8 @@ MacOS      24 hrs 50 mins  █████████████████�
 graph TD
     A[🤖 AI Solutions] --> B[Real-world Problems]
     A --> C[Machine Learning Models]
-    D[💻 Software Development] --> E[MERN Stack Apps]
-    D --> F[Full Stack Solutions]
+    D[🔬 Computer Vision] --> E[Image Processing]
+    D --> F[Pattern Recognition]
     B --> G[🌟 Innovation]
     C --> G
     E --> G
@@ -154,8 +146,8 @@ graph TD
 </div>
 
 - 🔬 **AI Research**: Developing machine learning solutions for real-world challenges
-- 💡 **Problem Solving**: Creating innovative software solutions using AI
-- 🚀 **Full Stack Development**: Building scalable web applications with MERN stack
+- 💡 **Problem Solving**: Creating innovative AI-powered solutions
+- 👁️ **Computer Vision**: Building image processing and pattern recognition systems
 - 📚 **Continuous Learning**: Exploring advanced AI concepts and emerging technologies
 
 ---
@@ -179,11 +171,11 @@ graph TD
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/DivyakshChachan/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyakshChachan&repo=project1&theme=tokyonight" alt="Project 1"/>
+  <a href="https://github.com/DivyakshChachan/heart-disease-prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyakshChachan&repo=heart-disease-prediction&theme=tokyonight" alt="Heart Disease Prediction"/>
   </a>
-  <a href="https://github.com/DivyakshChachan/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyakshChachan&repo=project2&theme=tokyonight" alt="Project 2"/>
+  <a href="https://github.com/DivyakshChachan/license-plate-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyakshChachan&repo=license-plate-detection&theme=tokyonight" alt="License Plate Detection"/>
   </a>
 </div>
 
