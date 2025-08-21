@@ -65,19 +65,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DivyakshChachan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyakshChachan&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyakshChachan&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
 ## ⚡ Coding Activity & Profiles
 
 <div align="center">
@@ -95,74 +82,6 @@ me.say_hi()
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=layzcoder&theme=dark&force_username=true&border_color=204ECF" alt="Codeforces Stats"/>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-</div>
-
-### 📊 Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-**📊 This Week I Spent My Time On:**
-
-```text
-Python       15 hrs 45 mins  ████████████████░░░░░░░░░   63.2%
-C++          12 hrs 30 mins  ████████████░░░░░░░░░░░░░   50.2%
-Java         2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    9.4%
-```
-
-**🔥 Editors:**
-```text
-VS Code      20 hrs 30 mins  ████████████████████░░░░░   82.4%
-Jupyter      4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.6%
-```
-
-**💻 Operating System:**
-```text
-MacOS      24 hrs 50 mins  █████████████████████████   100.0%
-```
-<!--END_SECTION:waka-->
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🤖 AI Solutions] --> B[Real-world Problems]
-    A --> C[Machine Learning Models]
-    D[🔬 Computer Vision] --> E[Image Processing]
-    D --> F[Pattern Recognition]
-    B --> G[🌟 Innovation]
-    C --> G
-    E --> G
-    F --> G
-```
-
-</div>
-
-- 🔬 **AI Research**: Developing machine learning solutions for real-world challenges
-- 💡 **Problem Solving**: Creating innovative AI-powered solutions
-- 👁️ **Computer Vision**: Building image processing and pattern recognition systems
-- 📚 **Continuous Learning**: Exploring advanced AI concepts and emerging technologies
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DivyakshChachan&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyakshChachan&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
